@@ -1,0 +1,12 @@
+"rotulo","tipo","razao"
+"Baixa autocorrelação, ρ = 0,00","simulado",1.00202307933507
+"Alta autocorrelação, ρ = 0,00","simulado",0.986362518894252
+"Controle, ρ = 0,60","simulado",0.878127703892962
+"Realista, quatro verdadeiras, ρ = 0,53","simulado",0.863110404028812
+"Realista, oito verdadeiras (1), ρ = 0,53","simulado",0.779389520583275
+"Realista, quatro verdadeiras, ρ = 0,70","simulado",0.7500185673191
+"Realista, oito verdadeiras (2), ρ = 0,53","simulado",0.743695394997092
+"Realista, oito verdadeiras, ρ = 0,70","simulado",0.567298723481129
+"Casos","observado",0.300672211735363
+"Óbitos","observado",0.709280969140601
+"Letalidade","observado",0.706364712773541

@@ -1,0 +1,4 @@
+# Ambiente usado para conferir as sete figuras espaciais.
+numpy==2.2.6
+pandas==2.3.3
+matplotlib==3.10.9

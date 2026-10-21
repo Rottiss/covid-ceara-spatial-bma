@@ -1,0 +1,7 @@
+# Dependências dos geradores gráficos complementares, fora de figuras.py.
+-r requirements.txt
+seaborn
+scipy
+geopandas
+libpysal
+esda

@@ -1,0 +1,8 @@
+*.R text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.geojson text eol=lf
+*.rds binary
+*.xlsx binary

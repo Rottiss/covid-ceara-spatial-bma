@@ -1,0 +1,3 @@
+"tabela","pontos","teto_r2","erro_log_max","erro_logmarginal_max","modelos"
+"tabela_f21.rds",80001,0.549121748545071,4.31328953109933e-09,2.49809772867593e-09,60
+"tabela_f21_estendida.rds",300001,0.9,9.53883727561333e-09,4.95163021696499e-10,60

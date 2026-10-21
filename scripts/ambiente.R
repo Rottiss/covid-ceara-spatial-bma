@@ -1,0 +1,10 @@
+source("../caminhos.R")
+pacotes <- c("readxl", "dplyr", "BMS", "spdep", "sf", "spatialreg")
+info <- data.frame(pacote = c("R", pacotes),
+                  versao = c(as.character(getRversion()), vapply(pacotes, function(p)
+                    if (requireNamespace(p, quietly = TRUE)) as.character(packageVersion(p)) else "MISSING", character(1))))
+dest <- file.path(RAIZ, "execucoes_locais", "ambiente")
+dir.create(dest, recursive = TRUE, showWarnings = FALSE)
+write.csv(info, file.path(dest, "versoes.csv"), row.names = FALSE)
+writeLines(capture.output(sessionInfo()), file.path(dest, "sessionInfo.txt"))
+print(info, row.names = FALSE)

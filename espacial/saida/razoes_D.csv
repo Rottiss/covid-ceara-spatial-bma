@@ -1,0 +1,12 @@
+"rotulo","tipo","razao"
+"dados reais: casos","dados",0.300672211735363
+"dados reais: letalidade","dados",0.706364712773541
+"dados reais: óbitos","dados",0.709280969140601
+"realista: oito verd., rho 0.70","simulação",0.567298723481129
+"realista: oito verd., rho 0.53","simulação",0.743695394997092
+"realista: quatro verd., rho 0.70","simulação",0.7500185673191
+"realista: oito verd., rho 0.53","simulação",0.779389520583275
+"realista: quatro verd., rho 0.53","simulação",0.863110404028812
+"simulação: controle","simulação",0.878127703892962
+"simulação: suaves","simulação",0.986362518894252
+"simulação: rugosas","simulação",1.00202307933507
